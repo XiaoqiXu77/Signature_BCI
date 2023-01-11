@@ -4,6 +4,8 @@ The implementation of two signature-based methods applied on EEG-based brain-com
 
 A simple example of classification of left/right motor imagery of one subject in [Physionet MI dataset](https://physionet.org/content/eegmmidb/1.0.0/) is given. However these methods are general and can be applied to other paradigms of EEG-based BCIs.
 
+![alt text](https://github.com/XiaoqiXu77/Signature_BCI/blob/main/Sig_BCI.png?raw=true)
+
 ## Dependencies
 
 * Numpy
