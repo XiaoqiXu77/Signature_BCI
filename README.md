@@ -19,4 +19,4 @@ A simple example of classification of left/right motor imagery of one subject in
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact via xiaoqi.xu at isae-supaero.fr 
+If you have any questions or suggestions, feel free to contact via 77xiaoqiqi at gmail.com
