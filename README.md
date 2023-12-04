@@ -16,6 +16,7 @@ A simple example of classification of left/right motor imagery of one subject in
 * Signatory
 
 ## Citation
+Xu, X., Lee, D., Drougard, N. et al. Signature methods for brain-computer interfaces. Sci Rep 13, 21367 (2023). https://doi.org/10.1038/s41598-023-41326-8
 
 ## Contact
 
